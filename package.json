@@ -60,7 +60,6 @@
     "husky": "^2.7.0",
     "lint-staged": "^8.2.1",
     "prettier": "^1.18.2",
-    "require-context.macro": "^1.0.4",
     "serve": "^11.0.2"
   },
   "husky": {
